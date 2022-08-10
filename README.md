@@ -24,29 +24,29 @@ Biking in New York City can be an adventerous, exciting and convenient way to se
 
 ### Checkout Times by Gender
 
-![checkout times]('Resources/checkouttimesbygender.png')
+![checkout times](Resources/checkouttimesbygender.png)
 
 ### Trips by Weekday per Hour
 
-![checkout times]('Resources/tripsbyweekday.png')
+![checkout times](Resources/tripsbyweekday.png)
 
 ### Trips by Gender (Weekday per Hour)
 
 
-![checkout times]('Resources/tripsbygender.png')
+![checkout times](Resources/tripsbygender.png)
 
 
 ### User Trips by Gender by Weekday
 
-![checkout times]('Resources/Usertripsbygender.png')
+![checkout times](Resources/Usertripsbygender.png)
 
 ### Top Starting Locations
 
-![checkout times]('Resources/topstartinglocations.png')
+![checkout times](Resources/topstartinglocations.png)
 
 ### Top Ending Locations
 
-![checkout times]('Resources/topendinglocations.png')
+![checkout times](Resources/topendinglocations.png)
 
 
 
