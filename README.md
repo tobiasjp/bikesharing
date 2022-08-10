@@ -18,7 +18,7 @@ Biking in New York City can be an adventerous, exciting and convenient way to se
 
 ## Results
 
-The user stories of different bike riding populations have been presented below, as well as on Tableau Public forum.  Please see the link below to access the full NYC CITI Bike Sharing story.
+The user stories of different bike riding populations have been presented below, as well as on Tableau Public forum.  Please see the link below to access the full NYC CITI Bike Sharing dynamic and interactive dashboard.
 
 [NYC CITI Bike Sharing via Tableau](https://public.tableau.com/app/profile/tobias.pratt/viz/NYCCitiBike_16601671394750/NYCCITIBiking)
 
