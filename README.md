@@ -20,7 +20,7 @@ Biking in New York City can be an adventerous, exciting and convenient way to se
 
 ### Checkout Times for Users
 
-![checkout times]('Resources/checkouttimesbyusers.png')
+![checkout times](Resources/checkouttimesbyusers.png)
 
 ### Checkout Times by Gender
 
